@@ -1,3 +1,11 @@
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedshanty/mohamedshanty/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedshanty/mohamedshanty/main/light.svg">
+  <img alt="mohamedshanty" src="https://raw.githubusercontent.com/mohamedshanty/mohamedshanty/main/light.svg">
+</picture>
+
+
 <h2 align="left">Hi 👋! My Name Is Mohamed Salem And I'M A Frontend Developer, from Gaza</h2>
 
 ###
